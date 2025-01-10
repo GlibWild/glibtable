@@ -1,0 +1,11 @@
+{
+  "name": "glibtable",
+  "version": "1.0.1",
+  "description": "test init",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "GlibWild <1075012871@qq.com>",
+  "license": "MIT"
+}
