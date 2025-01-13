@@ -1,5 +1,5 @@
 <!-- [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE) -->
-![GitHub License](https://img.shields.io/github/license/glibwild/https%3A%2F%2Fgithub.com%2FGlibWild%2Fglibtable%2Fblob%2Fmaster%2FLICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/GlibWild/glibtable/blob/master/LICENSE)
 
 ### 测试
 ~~~
