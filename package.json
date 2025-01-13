@@ -6,6 +6,10 @@
   "scripts": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GlibWild/glibtable.git"
+  },
   "author": "GlibWild <1075012871@qq.com>",
   "license": "MIT"
 }
