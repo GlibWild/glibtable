@@ -1,6 +1,6 @@
 {
   "name": "glibtable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test init",
   "main": "index.js",
   "scripts": {
